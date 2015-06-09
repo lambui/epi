@@ -1,2 +1,2 @@
-# epi == epilepsy
+# epi = epilepsy
 for when u r bored
